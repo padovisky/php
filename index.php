@@ -1,3 +1,4 @@
 <?php
-	echo "Olá Galera";
+	echo "Olá Galera!";
+	echo "Olá Github";
 ?> 
